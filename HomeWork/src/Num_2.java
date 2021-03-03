@@ -24,7 +24,7 @@ public class Num_2 {
                 System.out.print("Shopping");
                 break;
             default:
-                System.out.println("mistake");
+                System.out.println("mis");
         }
     }
 }
